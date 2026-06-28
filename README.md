@@ -7,7 +7,7 @@ The font is forced to every text element in Discord, including the chat input bo
 ## Installation
 0. You will have to download and install either [Vencord](https://vencord.dev/) or [Equicord](https://equicord.org/).
 1. Open settings in Discord and navigate to the "Themes" section.
-2. Import it by the URL: `https://raw.githubusercontent.com/beplyn/catppuccin-mocha-jetbrains-mono-discord-theme/main/catppuccin-mocha.theme.css` or download the file and import it manually.
+2. Import it by the URL: `https://raw.githubusercontent.com/beplyn/catppuccin-mocha-jetbrains-nerdfont-for-discord/refs/heads/master/catppuccin-mocha.theme.css` or download the file and import it manually.
 
 > [!TIP]
 > *If you don't want to force the font everywhere I recommend either using the original Catppuccin Mocha theme or modifying this by removing the `!important` declarations in the CSS file.*
